@@ -1,5 +1,6 @@
 file b
 add loco text
 add cloud text
+why there is a blank line? I add this line 1 on local
 edi this empty line on cloud. cloud edit step2
 add more loco text
