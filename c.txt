@@ -1,2 +1,3 @@
 file c
 add loco text
+add cloud text

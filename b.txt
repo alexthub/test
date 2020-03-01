@@ -1,3 +1,5 @@
 file b
 add loco text
+add cloud text
+
 add more loco text
