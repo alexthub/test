@@ -1,5 +1,5 @@
 file b
 add loco text
 add cloud text
-
+edi this empty line on cloud. cloud edit step2
 add more loco text
