@@ -1,6 +1,10 @@
 asdfasdfasdfczxcZcxZcZXcxz
 <<<<<<< HEAD
+<<<<<<< HEAD
 this line added on the cloud
 =======
 This line added on the cloud
 >>>>>>> cloudbranch
+=======
+this line added on the cloud
+>>>>>>> 777aef9a62fd569a2c1855e52d0edab52f2e9a59
