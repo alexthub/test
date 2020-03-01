@@ -1,2 +1,3 @@
 file a
 add cloud text
+more text from the cloud
